@@ -18,7 +18,7 @@
  
  . Soy una persona empática, colaboradora, y siempre trabajé con grupos heterogeneos.
  
- . Me gusta investigar y (preguntarme muchos porques y comos) para seguir adquiriendo conocimientos.
+ . Me gusta investigar y (preguntarme muchos porqués y comos) para seguir adquiriendo conocimientos.
 <!--
 **Guillermo292/Guillermo292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
