@@ -1,6 +1,6 @@
-### Hi there 👋
-![welcome to my profile](https://user-images.githubusercontent.com/116892227/229373734-dac323f5-153f-4c20-81a9-cf41626b5969.png)
-  
+### Hola!! 👋
+![Bienvenido a mi perfil](https://user-images.githubusercontent.com/116892227/229375378-4d16df30-7f4a-4987-888a-cf680e33e881.png)
+
  # Mi nombre es Guillermo, soy desarrollador Junior (Fullstack)
   
    # ✨Skills✨
@@ -16,9 +16,9 @@
  
  # Me apasiona este mundo, en el cual siempre estuve interesado.
  
- . Soy una persona empática, colaboradora, y siempre trabajé con grupos heterogeneos.
+ # Soy una persona empática, colaboradora, y siempre trabajé con grupos heterogéneos.
  
- . Me gusta investigar y (preguntarme muchos porqués y comos) para seguir adquiriendo conocimientos.
+ # Me gusta investigar y (preguntarme muchos porqués y comos) para seguir adquiriendo conocimientos.
 <!--
 **Guillermo292/Guillermo292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
